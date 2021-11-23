@@ -10,4 +10,5 @@
     <string name="toast_button_text">Toast</string>
     <string name="random_button_text">Random</string>
     <string name="button">Count</string>
+    <string name="toast_message">Hello toast!</string>
 </resources>
